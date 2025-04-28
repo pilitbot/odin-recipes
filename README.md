@@ -1,1 +1,2 @@
 # odin-recipes
+Creare una prueba de pagina como ensayo para mis estudios de Html y css voy a construir una pagina web de recetas aplicando las habilidades de git-github-llamar archivos por terminal-crear carpetas
